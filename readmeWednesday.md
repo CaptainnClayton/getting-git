@@ -1,0 +1,7 @@
+define custom types using class, struct, and enum
+show and explain the difference between value types vs. reference types
+create custom initializers
+understand and explain the difference between a method and a function
+understand and explain the purpose of optionals
+use an if let statement to unwrap an optional variable
+force unwrap an optional type and understand the potential dangers and benefits
