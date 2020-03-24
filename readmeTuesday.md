@@ -1,0 +1,7 @@
+understand and explain version control
+configure a git identity and default editor on a computer
+create a fork on GitHub
+clone a remote Git repository
+commit changes to a Git repository and write good commit messages
+push changes to a remote Git repository
+create a pull request on GitHub
